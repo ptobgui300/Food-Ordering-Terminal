@@ -1,0 +1,14 @@
+Group Members:
+Alex Dang
+Hung Luu
+Pierre Tobgui
+
+Responsibilites:
+Create GUI for instore users
+Create GUI for administrator
+Create GUI for receptionist
+Create display for kitchen
+Create website for online users
+Update GUIs based on database information
+Handle database interactions between modules
+Handle payment methods (verification and receipt)
